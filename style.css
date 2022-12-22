@@ -1,0 +1,10 @@
+/* .material-icons{
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 50%;
+} */
+.is-centered{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
